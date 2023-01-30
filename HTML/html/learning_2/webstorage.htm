@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Web Storage</title>
+
+    </head>
+    <body>
+        <div id = "result"></div>
+        <script>
+            if (typeof(Storage) !=="undefined"){
+                localStorage.setItem("sitename","Zion's Site");
+                document.getElementById("result").innerHTML = "Site Name:"+ localStorage.getItem("sitename");
+
+            }
+            else{
+                document.getElementById("result").innerHTML = "Sorry, your browser does not support Web Storage...";
+            }
+        </script>
+    </body>
+</html>

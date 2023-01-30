@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/18381/Desktop/dev_env/cpp_c/cpp/Homeworks/lab5/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/lab5.dir/includes_CXX.rsp -g -o CMakeFiles\\lab5.dir\\main.cpp.obj -c C:\\Users\\18381\\Desktop\\dev_env\\cpp_c\\cpp\\Homeworks\\lab5\\main.cpp",
+  "file": "C:/Users/18381/Desktop/dev_env/cpp_c/cpp/Homeworks/lab5/main.cpp"
+},
+{
+  "directory": "C:/Users/18381/Desktop/dev_env/cpp_c/cpp/Homeworks/lab5/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/lab5.dir/includes_CXX.rsp -g -o CMakeFiles\\lab5.dir\\UnaryOP.cpp.obj -c C:\\Users\\18381\\Desktop\\dev_env\\cpp_c\\cpp\\Homeworks\\lab5\\UnaryOP.cpp",
+  "file": "C:/Users/18381/Desktop/dev_env/cpp_c/cpp/Homeworks/lab5/UnaryOP.cpp"
+},
+{
+  "directory": "C:/Users/18381/Desktop/dev_env/cpp_c/cpp/Homeworks/lab5/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/lab5.dir/includes_CXX.rsp -g -o CMakeFiles\\lab5.dir\\BaseExpr.cpp.obj -c C:\\Users\\18381\\Desktop\\dev_env\\cpp_c\\cpp\\Homeworks\\lab5\\BaseExpr.cpp",
+  "file": "C:/Users/18381/Desktop/dev_env/cpp_c/cpp/Homeworks/lab5/BaseExpr.cpp"
+},
+{
+  "directory": "C:/Users/18381/Desktop/dev_env/cpp_c/cpp/Homeworks/lab5/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/lab5.dir/includes_CXX.rsp -g -o CMakeFiles\\lab5.dir\\BinaryOP.cpp.obj -c C:\\Users\\18381\\Desktop\\dev_env\\cpp_c\\cpp\\Homeworks\\lab5\\BinaryOP.cpp",
+  "file": "C:/Users/18381/Desktop/dev_env/cpp_c/cpp/Homeworks/lab5/BinaryOP.cpp"
+},
+{
+  "directory": "C:/Users/18381/Desktop/dev_env/cpp_c/cpp/Homeworks/lab5/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/lab5.dir/includes_CXX.rsp -g -o CMakeFiles\\lab5.dir\\Expression.cpp.obj -c C:\\Users\\18381\\Desktop\\dev_env\\cpp_c\\cpp\\Homeworks\\lab5\\Expression.cpp",
+  "file": "C:/Users/18381/Desktop/dev_env/cpp_c/cpp/Homeworks/lab5/Expression.cpp"
+},
+{
+  "directory": "C:/Users/18381/Desktop/dev_env/cpp_c/cpp/Homeworks/lab5/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/lab5.dir/includes_CXX.rsp -g -o CMakeFiles\\lab5.dir\\Operation.cpp.obj -c C:\\Users\\18381\\Desktop\\dev_env\\cpp_c\\cpp\\Homeworks\\lab5\\Operation.cpp",
+  "file": "C:/Users/18381/Desktop/dev_env/cpp_c/cpp/Homeworks/lab5/Operation.cpp"
+}
+]

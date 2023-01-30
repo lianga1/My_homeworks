@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.17)
+
+
+project(Grade)
+
+set(srclist main.cpp grade.cpp median.cpp Student_info.cpp)
+
+
+aux_source_directory(sourse)
+
+add_library(hw2)
+
+add_executable(main)

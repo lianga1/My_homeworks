@@ -1,0 +1,1 @@
+C:\\Users\\18381\\anaconda3\\envs\\p32\\include\\Python.h

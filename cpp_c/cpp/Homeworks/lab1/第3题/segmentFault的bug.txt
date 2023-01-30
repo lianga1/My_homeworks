@@ -1,0 +1,1 @@
+在remove_min函数中，删除表元时，当最小数表元在删除过程中，min的next指针指向了NULL，而NULL没有prev指针，所以出现错误

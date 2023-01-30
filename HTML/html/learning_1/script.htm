@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Script</title>
+    </head>
+    <body>
+        <script>
+            document.write("Hello World!");
+
+        </script>
+        <noscript>Sorry, your explorer doesn't support javascript</noscript>
+        <p id = "demo">this is the original text</p>
+        <script>
+            function myFunction() {
+                document.getElementById("demo").innerHTML = "Hello World!";
+            }
+        </script>
+        <botton type = "button" onclick = "myFunction()">Click it!</botton>
+    </body>
+</html>
